@@ -3,15 +3,12 @@ package advent;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 public class Day13 
 {
 	public static void main(String[] args) throws IOException
 	{
-
 		String input = FileUtility.textFileToString("input/13.txt");
 		
 		// Part one
